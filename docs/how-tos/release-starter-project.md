@@ -7,15 +7,15 @@ However, for the sake of consistency we should adhere to keeping close to it.
 
 ### Versioning Rules
 
-* new starter projects remain untagged until they can at least run locally,
-  good enough for demos and testing
-* once a starter project can run for demos, start minor releases at `0.1.0`
-* once a starter project is used to create a site that is running in production
-  it gets bumped to `1.0.0`
-* increment patch numbers if any change is fixing a bug
-* increment minor numbers for any feature changes or version bumps of dependencies
-  that are relatively minor
-* increment major numbers for any **major** work done
+* New starter projects remain untagged until they can at least run locally,
+  good enough for demos and testing.
+* Once a starter project can run for demos, start minor releases at `0.1.0`.
+* Once a starter project is used to create a site that is running in production
+  it gets bumped to `1.0.0`.
+* Increment patch numbers if any change is fixing a bug.
+* Increment minor numbers for any feature changes or version bumps of dependencies
+  that are relatively minor.
+* Increment major numbers for any **major** work done.
 
 
 ### Tagging
