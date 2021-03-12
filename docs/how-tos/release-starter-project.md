@@ -15,7 +15,7 @@ However, for the sake of consistency we should adhere to keeping close to it.
 * Increment patch numbers if any change is fixing a bug.
 * Increment minor numbers for any feature changes or version bumps of dependencies
   that are relatively minor.
-*Increment major numbers for any **major** work done.
+* Increment major numbers for any **major** work done.
 
 
 ### Tagging
